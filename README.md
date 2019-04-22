@@ -12,7 +12,7 @@ We used neural network to recognize digits from the dataset.
 
 ### Dataset #2: Iris species classification: 
 Dataset from: https://www.kaggle.com/uciml/iris  
-We used neural network to classify diffrent iris species.  
+We used neural network to classify different iris species.  
 [Jupyter notebook](https://github.com/jancpp/machine_learning_hw3/blob/master/ML%20-%20Iris.ipynb)
 
 ### Used references:  
