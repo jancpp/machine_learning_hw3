@@ -1,9 +1,9 @@
 # Neural network architectures
 
-EECS 738 - Machine learning  homework 3 
+### EECS 738 - Machine learning homework 3    
 Due date: 4/22/2019    
 
-Contributiors: Ryan Duckworth and Jan Polzer 
+Contributors: Ryan Duckworth and Jan Polzer  
 
 ### Dataset #1: Digit recognition: 
 MNIST dataset imported from Scikit-Learn  
