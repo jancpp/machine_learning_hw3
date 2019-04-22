@@ -17,5 +17,7 @@ We used neural network to classify different iris species.
 
 ### Used references:  
 https://www.kaggle.com/niyipop/2-layer-neural-network-from-scratch-using-numpy/data  
+https://towardsdatascience.com/neural-network-on-iris-data-4e99601a42c8    
 https://medium.com/machine-learning-algorithms-from-scratch/digit-recognition-from-0-9-using-deep-neural-network-from-scratch-8e6bcf1dbd3   
-https://github.com/pavankalyan1997/Machine-learning-without-any-libraries  
+https://medium.com/@himanshubeniwal/handwritten-digit-recognition-using-machine-learning-ad30562a9b64   
+
